@@ -1,1 +1,3 @@
-# Image_classification_
+# MSML603 Project 1
+
+The goal of this project is to implement fundamental machine learning techniques to complete two image tasks: binary and multiclass classification. The techniques employed throughout both tasks will be principal components analysis for dimensionality reduction, Bayes’ classifiers for image classification, and K-Nearest Neighbor’s classifiers also for image classification. Given that K-Nearest Neighbors and Bayes classifiers are relatively uncomplex algorithms, it is of interest how well they can perform on an image classification problem. This project will also explore the effectiveness of PCA’s lower-dimensional representation of the image data.
